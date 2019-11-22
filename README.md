@@ -1,1 +1,1 @@
-# tugas-1914370120-16112019-1
+Pertama mulai. Lalu masukkan int nya lebih awal. Maka buatah int bil, i, hasil. Kemudian masukkan perulangan for dengan nilai 5 lalu di kondisi perbandingannya kita berikan i>=bil. Artinya perulangan akan dilakukan selama nilai i lebih besar sama dengan bilangan yang kita isi. Jika benar, maka lanjut ke fungsi increment, jika salah maka langsung selesai.
